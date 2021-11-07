@@ -1,6 +1,11 @@
 # RESUME
 This is Thakas Resume
 
+
+# Profile
+During my job experience, I had practical skills with interesting technologies, tasks, people. In the whole role of my engineering practice include building and supporting web SaaS solutions based on Linux/Unix platform in a cloud (AWS) and on-premise, experience on server infrastructure migration, monitoring and securing, LAMP, and Linux Server setup/administration. Takes the form part in automating, supporting and to ensure CI/CD in product developing.
+
+# EXPERiANCE
 Linux System Engineer
 Company NameIonic Security Full-time
 Dates EmployedDec 2018 – Apr 2019
@@ -82,8 +87,6 @@ LocationPasadena California
 Achievements:
 - Used Nagios to track hardware health for Mission to Mars
 - Provided support and administration for SAS and Fibre attached storage devices to maintain SAN and backup infrastructure,.
-
-
 - Compiled binaries using GCC to support in house applications.
 - Created shell scripts via BASH/Expect to automate root password changes
 - Provided desktop support for Sun Solaris workstations including processor swaps, ZFS administration, multi-frame buffer configuration and networking
