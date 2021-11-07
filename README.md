@@ -1,12 +1,15 @@
-# ##RESUME
+# ##RESUME##
 This is Thakas Resume
 ##MY_GOVAMiNT_NAME = #RASHARD_iMAN_KELLY
 
 
-# ##MY_PROFiLE
+# ##MY_PROFiLE##
 During my job experience, I had practical skills with interesting technologies, tasks, people. In the whole role of my engineering practice include building and supporting web SaaS solutions based on Linux/Unix platform in a cloud (AWS) and on-premise, experience on server infrastructure migration, monitoring and securing, LAMP, and Linux Server setup/administration. Takes the form part in automating, supporting and to ensure CI/CD in product developing.
-
-# ##EXPERiANCE
+## ##LANGUAGES##
+CSS_iNTERMEDiATE BASH_ADVANCED
+ANSiBLE_ADVANCED HTML_ADVANCED
+PYTHON_BEGiNNER RUBY_BEGiNNER
+# ##EXPERiANCE##
 ## Linux System Engineer
 ### Company NameIonic Security Full-time
 Dates EmployedDec 2018 – Apr 2019
