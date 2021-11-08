@@ -8,7 +8,8 @@ During my job experience, I had practical skills with interesting technologies, 
 ## ##LANGUAGES##
 ### ANSiBLE_ADVANCED BASH_ADVANCED HTML_ADVANCED
 ### CSS_iNTERMEDiATE RUBY_iNTERMEDiATE
-### PYTHON_BEGiNNER 
+### PYTHON_BEGiNNER SPANiSH_BEGiNNER AMHARiC_BEGiNNER
+### SOMALi_BEGiNNER OROMO_BEGiNNER
 # ##EXPERiANCE##
 ## Linux System Engineer
 ### Company NameIonic Security Full-time
@@ -23,8 +24,9 @@ LocationGreater Atlanta Area
 • SALT state management for server builds
 • 24/7 Oncall service as single point of contact for department Linux issues
 
-Linux Engineer
-Company NameAtlanticus
+
+## CORPORATiON = "Atlanticus"
+### ROLE = "Linux Engineer"
 Dates EmployedJan 2018 – Nov 2018
 Employment Duration11 mos
 LocationGreater Atlanta Area
