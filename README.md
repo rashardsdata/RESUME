@@ -3,7 +3,7 @@ This is Thakas Resume
 ##MY_GOVAMiNT_NAME = #RASHARD_iMAN_KELLY
 
 
-# ##MY_PROFiLE = " LiNUX_ENGiNEER##DEVOPS_SPECiALiST##
+# ##MY_PROFiLE = "LiNUX_ENGiNEER##DEVOPS_SPECiALiST"
 During my job experience, I had practical skills with interesting technologies, tasks, people. In the whole role of my engineering practice include building and supporting web SaaS solutions based on Linux/Unix platform in a cloud (AWS) and on-premise, experience on server infrastructure migration, monitoring and securing, LAMP, and Linux Server setup/administration. Takes the form part in automating, supporting and to ensure CI/CD in product developing.
 ## ##LANGUAGES = "Programming and Communicative" ##
 {% highlight ruby %}
@@ -16,17 +16,19 @@ KNOWN_PROGRAMMiNG_LANGUAGES =  [
 ### ### 
 {% highlight ruby %}
 KNOWN_SPOKEN_LANGUAGES =  [  
-[ "ENGLiSH_FLUENT_and_LiTERATE" ]
+[ "ENGLiSH_FLUENT" ]
 [ "SPANiSH_BEGiNNER", "SOMALi_BEGiNNER", "OROMO_BEGiNNER", AMHARiC_BEGiNNER  ]
 ] ##THATS_HOW_i_TAWK_TO_MY_FAMiLY_FRiENDS_NEiGHBORS_and_COLLEAGES!!!
 {% endhighlight %}
-#### ### 
+### ### 
 {% highlight ruby %}
 LiTERACY =  [  
 [ "ENGLiSH_ADVANCED" ]
 [ "SPANiSH_BEGiNNER", "SOMALi_BEGiNNER", "OROMO_BEGiNNER", "AMHARiC_BEGiNNER"  ]
 ] ##THATS_HOW_i_KEEP_UP_WiTH_MY_FAMiLY_FRiENDS_NEiGHBORS_and_COLLEAGES!!!
 {% endhighlight %}
+### ###
+### ###
 ### ###
 # ##EXPERiANCE##
 ## Linux System Engineer
