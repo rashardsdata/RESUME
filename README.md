@@ -13,21 +13,21 @@ KNOWN_PROGRAMMiNG_LANGUAGES =  [
 [ "PYTHON_BEGiNNER", "PHP_BEGiNNER",  ]
 ] ##THATS_HOW_i_GET_MY_WERK_DONE!!!
 {% endhighlight %}
-### 
+### ### 
 {% highlight ruby %}
 KNOWN_SPOKEN_LANGUAGES =  [  
-[ ""ENGLiSH_FLUENT_and_LiTERATE"" ]
+[ "ENGLiSH_FLUENT_and_LiTERATE" ]
 [ "SPANiSH_BEGiNNER", "SOMALi_BEGiNNER", "OROMO_BEGiNNER", AMHARiC_BEGiNNER  ]
 ] ##THATS_HOW_i_TAWK_TO_MY_FAMiLY_FRiENDS_NEiGHBORS_and_COLLEAGES!!!
 {% endhighlight %}
-### 
+#### ### 
 {% highlight ruby %}
 LiTERACY =  [  
-[ ""ENGLiSH_ADVANCED" ]
-[ "SPANiSH_BEGiNNER", "SOMALi_BEGiNNER", "OROMO_BEGiNNER", AMHARiC_BEGiNNER  ]
+[ "ENGLiSH_ADVANCED" ]
+[ "SPANiSH_BEGiNNER", "SOMALi_BEGiNNER", "OROMO_BEGiNNER", "AMHARiC_BEGiNNER"  ]
 ] ##THATS_HOW_i_KEEP_UP_WiTH_MY_FAMiLY_FRiENDS_NEiGHBORS_and_COLLEAGES!!!
 {% endhighlight %}
-
+### ###
 # ##EXPERiANCE##
 ## Linux System Engineer
 ### Company NameIonic Security Full-time
