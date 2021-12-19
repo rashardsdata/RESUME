@@ -1,10 +1,11 @@
 # ##RESUME##
-This is Thakas Resume
-##MY_GOVAMiNT_NAME = #RASHARD_iMAN_KELLY
+This is Rashard's Resume
+##My_preferred_name_is: Thaka!
 
 
 # ##MY_PROFiLE = "LiNUX_ENGiNEER##DEVOPS_SPECiALiST"
-During my job experience, I had practical skills with interesting technologies, tasks, people. In the whole role of my engineering practice include building and supporting web SaaS solutions based on Linux/Unix platform in a cloud (AWS) and on-premise, experience on server infrastructure migration, monitoring and securing, LAMP, and Linux Server setup/administration. Takes the form part in automating, supporting and to ensure CI/CD in product developing.
+After 20 years in Information Technology, I have developed several practical skills with useful technologies, both OpenSource and Proprietary. The tasks, people, and places that I've worked included assignments in building, supporting, migrating, and developing web SaaS solutions that run on *NIX platform both cloud (AWS) and on-site to ensure business continuity. 
+
 ## ##LANGUAGES = "Programming and Communicative" ##
 {% highlight ruby %}
 KNOWN_PROGRAMMiNG_LANGUAGES =  [  
