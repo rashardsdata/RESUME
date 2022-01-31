@@ -11,21 +11,21 @@ After 20 years in Information Technology, I have developed several practical ski
 KNOWN_PROGRAMMiNG_LANGUAGES =  [  
 [ "ANSiBLE_ADVANCED", "HTML_ADVANCED", "BASH_ADVANCED" ]
 [ "RUBY_iNTERMEDiATE", "CSS_iNTERMEDiATE" ]
-[ "PYTHON_BEGiNNER", "PHP_BEGiNNER",  ]
+[ "PYTHON_iNTERMEDiATE", "PHP_BEGiNNER",  ]
 ] ##THATS_HOW_i_GET_MY_WERK_DONE!!!
 {% endhighlight %}
 ### ### 
 {% highlight ruby %}
 KNOWN_SPOKEN_LANGUAGES =  [  
 [ "ENGLiSH_FLUENT" ]
-[ "SPANiSH_BEGiNNER", "SOMALi_BEGiNNER", "OROMO_BEGiNNER", "AMHARiC_BEGiNNER"  ]
+[ "SPANiSH_BEGiNNER", "SOMALi_BEGiNNER", "OROMO_BEGiNNER-ADVANCED", "AMHARiC_iNTERMEDiATE"  ]
 ] ##THATS_HOW_i_TAWK_TO_MY_FAMiLY_FRiENDS_NEiGHBORS_and_COLLEAGES!!!
 {% endhighlight %}
 ### ### 
 {% highlight ruby %}
 LiTERACY =  [  
 [ "ENGLiSH_ADVANCED" ]
-[ "SPANiSH_BEGiNNER", "SOMALi_BEGiNNER", "OROMO_BEGiNNER", "AMHARiC_BEGiNNER"  ]
+[ "SPANiSH_BEGiNNER", "SOMALi_BEGiNNER", "OROMO_BEGiNNER", "AMHARiC_AdVANCED"  ]
 ] ##THATS_HOW_i_KEEP_UP_WiTH_MY_FAMiLY_FRiENDS_NEiGHBORS_and_COLLEAGES!!!
 {% endhighlight %}
 ### ###
